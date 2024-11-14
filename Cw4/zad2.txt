@@ -1,0 +1,11 @@
+Oracle
+SELECT DBMS_METADATA.GET_DDL('TABLE', 'FactInternetSales', 'AdventureWorksDW2019') FROM DUAL;
+
+PostgreSQL
+\d+ AdventureWorksDW2019.FactInternetSales
+
+MySQL
+SHOW CREATE TABLE AdventureWorksDW2019.FactInternetSales;
+
+SQL Server
+EXEC sp_help 'AdventureWorksDW2019.dbo.FactInternetSales';
