@@ -1,0 +1,10 @@
+14.0
+8
+1       SQLNCHAR            0       24      "\t\0"       1     ProductKey                                   ""
+2       SQLNCHAR            0       20      "\t\0"       2     CurrencyAlternateKey                         SQL_Latin1_General_CP1_CI_AS
+3       SQLNCHAR            0       200     "\t\0"       3     FIRST_NAME                                   SQL_Latin1_General_CP1_CI_AS
+4       SQLNCHAR            0       200     "\t\0"       4     LAST_NAME                                    SQL_Latin1_General_CP1_CI_AS
+5       SQLNCHAR            0       24      "\t\0"       5     OrderDateKey                                 ""
+6       SQLNCHAR            0       24      "\t\0"       6     OrderQuantity                                ""
+7       SQLNCHAR            0       82      "\t\0"       7     UnitPrice                                    ""
+8       SQLNCHAR            0       20      "\r\0\n\0"   8     SecretCode                                   SQL_Latin1_General_CP1_CI_AS
